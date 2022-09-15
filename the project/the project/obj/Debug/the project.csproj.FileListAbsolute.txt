@@ -1,0 +1,199 @@
+E:\graduation project\the project\the project\bin\Debug\the project.exe.config
+E:\graduation project\the project\the project\bin\Debug\the project.exe
+E:\graduation project\the project\the project\bin\Debug\the project.pdb
+E:\graduation project\the project\the project\bin\Debug\IronPdf.dll
+E:\graduation project\the project\the project\bin\Debug\IronPdf.xml
+E:\graduation project\the project\the project\obj\Debug\the_project.Form1.resources
+E:\graduation project\the project\the project\obj\Debug\the_project.Properties.Resources.resources
+E:\graduation project\the project\the project\obj\Debug\the project.csproj.GenerateResource.Cache
+E:\graduation project\the project\the project\obj\Debug\the project.exe
+E:\graduation project\the project\the project\obj\Debug\the project.pdb
+E:\graduation project\the project\the project\obj\Debug\the project.csprojResolveAssemblyReference.cache
+E:\graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x86.dll
+E:\graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x64.dll
+E:\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.so
+E:\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.dylib
+E:\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.Core.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.PlatformServices.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.dll
+E:\graduation project\the project\the project\bin\Debug\Google.LongRunning.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Protobuf.dll
+E:\graduation project\the project\the project\bin\Debug\Grpc.Auth.dll
+E:\graduation project\the project\the project\bin\Debug\Grpc.Core.dll
+E:\graduation project\the project\the project\bin\Debug\Newtonsoft.Json.dll
+E:\graduation project\the project\the project\bin\Debug\System.Interactive.Async.dll
+E:\graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.pdb
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Apis.Core.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.pdb
+E:\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.xml
+E:\graduation project\the project\the project\bin\Debug\Google.LongRunning.pdb
+E:\graduation project\the project\the project\bin\Debug\Google.LongRunning.xml
+E:\graduation project\the project\the project\bin\Debug\Google.Protobuf.xml
+E:\graduation project\the project\the project\bin\Debug\Grpc.Auth.xml
+E:\graduation project\the project\the project\bin\Debug\Grpc.Core.xml
+E:\graduation project\the project\the project\bin\Debug\Newtonsoft.Json.xml
+E:\graduation project\the project\the project\bin\Debug\System.Interactive.Async.xml
+E:\graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.dll
+E:\graduation project\the project\the project\bin\Debug\NReco.VideoConverter.dll
+E:\graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.xml
+E:\graduation project\the project\the project\bin\Debug\NReco.VideoConverter.xml
+E:\graduation project\the project\the project\bin\Debug\MySql.Data.dll
+E:\graduation project\the project\the project\bin\Debug\Zstandard.Net.dll
+E:\graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\graduation project\the project\the project\bin\Debug\BouncyCastle.Crypto.dll
+E:\graduation project\the project\the project\bin\Debug\Ubiety.Dns.Core.dll
+E:\graduation project\the project\the project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\graduation project\the project\the project\bin\Debug\System.Buffers.dll
+E:\graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.dll
+E:\graduation project\the project\the project\bin\Debug\K4os.Hash.xxHash.dll
+E:\graduation project\the project\the project\bin\Debug\MySql.Data.xml
+E:\final graduation project\the project\the project\bin\Debug\the project.exe.config
+E:\final graduation project\the project\the project\obj\Debug\the project.exe
+E:\final graduation project\the project\the project\obj\Debug\the project.pdb
+E:\final graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x86.dll
+E:\final graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x64.dll
+E:\final graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.so
+E:\final graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.so
+E:\final graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.dylib
+E:\final graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.dylib
+E:\final graduation project\the project\the project\bin\Debug\the project.exe
+E:\final graduation project\the project\the project\bin\Debug\the project.pdb
+E:\final graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.Auth.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.Core.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.PlatformServices.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.LongRunning.dll
+E:\final graduation project\the project\the project\bin\Debug\Google.Protobuf.dll
+E:\final graduation project\the project\the project\bin\Debug\Grpc.Auth.dll
+E:\final graduation project\the project\the project\bin\Debug\Grpc.Core.dll
+E:\final graduation project\the project\the project\bin\Debug\IronPdf.dll
+E:\final graduation project\the project\the project\bin\Debug\MySql.Data.dll
+E:\final graduation project\the project\the project\bin\Debug\Newtonsoft.Json.dll
+E:\final graduation project\the project\the project\bin\Debug\NReco.VideoConverter.dll
+E:\final graduation project\the project\the project\bin\Debug\System.Interactive.Async.dll
+E:\final graduation project\the project\the project\bin\Debug\Zstandard.Net.dll
+E:\final graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\final graduation project\the project\the project\bin\Debug\BouncyCastle.Crypto.dll
+E:\final graduation project\the project\the project\bin\Debug\Ubiety.Dns.Core.dll
+E:\final graduation project\the project\the project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\final graduation project\the project\the project\bin\Debug\System.Buffers.dll
+E:\final graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.dll
+E:\final graduation project\the project\the project\bin\Debug\K4os.Hash.xxHash.dll
+E:\final graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.pdb
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.pdb
+E:\final graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.Auth.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Apis.Core.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.pdb
+E:\final graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.LongRunning.pdb
+E:\final graduation project\the project\the project\bin\Debug\Google.LongRunning.xml
+E:\final graduation project\the project\the project\bin\Debug\Google.Protobuf.xml
+E:\final graduation project\the project\the project\bin\Debug\Grpc.Auth.xml
+E:\final graduation project\the project\the project\bin\Debug\Grpc.Core.xml
+E:\final graduation project\the project\the project\bin\Debug\IronPdf.xml
+E:\final graduation project\the project\the project\bin\Debug\MySql.Data.xml
+E:\final graduation project\the project\the project\bin\Debug\Newtonsoft.Json.xml
+E:\final graduation project\the project\the project\bin\Debug\NReco.VideoConverter.xml
+E:\final graduation project\the project\the project\bin\Debug\System.Interactive.Async.xml
+E:\final graduation project\the project\the project\obj\Debug\the project.csprojResolveAssemblyReference.cache
+E:\final graduation project\the project\the project\obj\Debug\the_project.Form1.resources
+E:\final graduation project\the project\the project\obj\Debug\the_project.Properties.Resources.resources
+E:\final graduation project\the project\the project\obj\Debug\the project.csproj.GenerateResource.Cache
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\the project.exe.config
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\the project.exe
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\the project.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.Core.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.LongRunning.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Protobuf.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Grpc.Auth.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Grpc.Core.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\System.Interactive.Async.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Zstandard.Net.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\System.Memory.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\System.Buffers.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Apis.Core.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Cloud.Speech.V1.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.LongRunning.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.LongRunning.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Google.Protobuf.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Grpc.Auth.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Grpc.Core.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\IronPdf.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\MySql.Data.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\NReco.VideoConverter.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\System.Interactive.Async.xml
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.csproj.AssemblyReference.cache
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.exe.config
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.Properties.Resources.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.csproj.GenerateResource.cache
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.csproj.CopyComplete
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.exe
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the project.pdb
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\bin\Debug\DarrenLee.SpeechSynthesis.dll
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.MainForm.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.Login.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.SelectionForm.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.AddingSubject.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.AddingFile.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.DeleteSubject.resources
+C:\Users\Abdallah Abdalbasset\Desktop\graduation project\graduation project wardany\graduation project\the project\the project\obj\Debug\the_project.DeleteFile.resources
